@@ -1,6 +1,6 @@
 # Date & Time skill for Amazon Alexa using Golang
 
-This Simple Amazon Alexa Skill built with the Go programming language.
+This is Simple AWS Alexa Date and Time Skill built with the Go programming language.
 
 ## Resources
 
